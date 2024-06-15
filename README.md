@@ -1,4 +1,4 @@
-# NSE-Library-Search
+# Nmap NSE Library Search
 Bash script to search Nmap's library of scripts that can be used during network scans. 
 ## Setup 
 1. Download `NSEfinder.sh` and place it wherever you keep your scripts.
